@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin:8QciRCRQeSGxgQZ5@cluster0.dgtib.mongodb.net/plan0?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
